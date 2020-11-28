@@ -72,3 +72,5 @@ schema.json
 Docker/
 
 tmp/
+# Local Netlify folder
+.netlify
